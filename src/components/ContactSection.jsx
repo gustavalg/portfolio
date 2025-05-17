@@ -27,7 +27,7 @@ export default function ContactSection() {
           </div>
 
           <a
-            href="https://www.linkedin.com/in/dein-name"
+            href="www.linkedin.com/in/gustav-ahlgrimm-958313353"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 text-base-content hover:text-primary transition"
